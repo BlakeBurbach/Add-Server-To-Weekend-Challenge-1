@@ -3,5 +3,10 @@
     - npm init creates our package.json
     - get Express
     - git commit 
-
     - make a file called server.js
+    - source in express 
+    - setup up a localhost
+    - structure the folders for server side and client side
+    - transfer files and folders from Weekend Challenge 1 over to our server folder and into public folder
+    - start up the server
+    - be amazed that you seriously just did that
