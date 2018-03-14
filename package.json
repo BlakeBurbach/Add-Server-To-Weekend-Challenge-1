@@ -1,0 +1,22 @@
+{
+  "name": "add-server-to-weekend-challenge-1",
+  "version": "1.0.0",
+  "description": "making-a-server-for-weekend-challenge-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlakeBurbach/Add-Server-To-Weekend-Challenge-1.git"
+  },
+  "author": "Blake Burbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlakeBurbach/Add-Server-To-Weekend-Challenge-1/issues"
+  },
+  "homepage": "https://github.com/BlakeBurbach/Add-Server-To-Weekend-Challenge-1#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
